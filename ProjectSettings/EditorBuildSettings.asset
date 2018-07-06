@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/main.unity
+    guid: 28d5ab9abda4c3746881bb0689724f0c
+  - enabled: 1
+    path: Assets/game.unity
+    guid: 9bd9d1edf5bde6d4283db668c52faffd
+  - enabled: 0
+    path: Assets/HoloToolkit/SharingWithUNET/Scenes/SharingWithUnetExample.unity
+    guid: 2cb8a97d98d81224c8b7d0495d361558
